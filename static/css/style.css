@@ -1,6 +1,5 @@
 *{
-  background: rgb(9,26,121);
-  background: linear-gradient(210deg, rgba(9,26,121,1) 0%, rgba(0,212,255,1) 57%);
+  background: rgb(221, 204, 255)
 }
 body * {
   box-sizing: border-box;
