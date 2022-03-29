@@ -1,12 +1,6 @@
-*{
-  background: rgb(221, 204, 255)
+body {
+  background-color: lightskyblue;
 }
-body * {
-  box-sizing: border-box;
-  margin-top:100px;
-  background-color:#8bc34a5c;
-}
-
 .header {
   background-color: #327a81;
   color: white;
